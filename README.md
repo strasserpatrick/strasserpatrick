@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Patrick Strasser
 #### AI M.Sc Student | Data Engineer
-AI M.Sc Student | Data Engineer)
 
 Currently studying extended Artificial Intelligence M.Sc in Würzburg, Germany. Interested in Software and Data Engineering as well as Data Science.
 
