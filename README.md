@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Patrick Strasser
 #### AI M.Sc Student | Data Engineer
 
-Currently studying extended Artificial Intelligence M.Sc in Würzburg, Germany. Interested in Software and Data Engineering as well as Data Science.
+Welcome to my public GitHub repository, where I want to showcase my some of my example projects. Currently studying extended Artificial Intelligence M.Sc in Würzburg, Germany. Interested in Software and Data Engineering as well as Data Science.
 
 - 🪴 Skills: Python, Spark, Azure, Databricks, Pytorch
 - 🔭 I’m currently working for [Datamesh GmbH](https://www.dmesh.io/)
