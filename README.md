@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Patrick Strasser
+#### AI M.Sc Student | Data Engineer
+![AI M.Sc Student | Data Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**strasserpatrick/strasserpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently studying extended Artificial Intelligence M.Sc in Würzburg, Germany. Interested in Software and Data Engineering as well as Data Science.
 
-Here are some ideas to get you started:
+Skills: Python, Spark, Azure, Databricks, Pytorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Datamesh GmbH 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/strasserpatrick)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/strasserpatrick//)  
+
