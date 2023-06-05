@@ -3,8 +3,7 @@
 
 Currently studying extended Artificial Intelligence M.Sc in Würzburg, Germany. Interested in Software and Data Engineering as well as Data Science.
 
-Skills: Python, Spark, Azure, Databricks, Pytorch
-
+- 🪴 Skills: Python, Spark, Azure, Databricks, Pytorch
 - 🔭 I’m currently working on Datamesh GmbH 
 
 
